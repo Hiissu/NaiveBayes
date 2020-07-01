@@ -1,0 +1,18 @@
+D:\lập trình mạng\NaiveBayes\NaiveBayes\obj\Debug\NaiveBayes.csprojAssemblyReference.cache
+D:\lập trình mạng\NaiveBayes\NaiveBayes\obj\Debug\NaiveBayes.Properties.Resources.resources
+D:\lập trình mạng\NaiveBayes\NaiveBayes\obj\Debug\NaiveBayes.csproj.GenerateResource.cache
+D:\lập trình mạng\NaiveBayes\NaiveBayes\obj\Debug\NaiveBayes.csproj.CoreCompileInputs.cache
+D:\lập trình mạng\NaiveBayes\NaiveBayes\bin\Debug\NaiveBayes.exe
+D:\lập trình mạng\NaiveBayes\NaiveBayes\bin\Debug\NaiveBayes.pdb
+D:\lập trình mạng\NaiveBayes\NaiveBayes\obj\Debug\NaiveBayes.Form1.resources
+D:\lập trình mạng\NaiveBayes\NaiveBayes\obj\Debug\NaiveBayes.exe
+D:\lập trình mạng\NaiveBayes\NaiveBayes\obj\Debug\NaiveBayes.pdb
+C:\Users\hieum\Documents\GitHub\NaiveBayes\NaiveBayes\bin\Debug\NaiveBayes.exe
+C:\Users\hieum\Documents\GitHub\NaiveBayes\NaiveBayes\bin\Debug\NaiveBayes.pdb
+C:\Users\hieum\Documents\GitHub\NaiveBayes\NaiveBayes\obj\Debug\NaiveBayes.csprojAssemblyReference.cache
+C:\Users\hieum\Documents\GitHub\NaiveBayes\NaiveBayes\obj\Debug\NaiveBayes.Form1.resources
+C:\Users\hieum\Documents\GitHub\NaiveBayes\NaiveBayes\obj\Debug\NaiveBayes.Properties.Resources.resources
+C:\Users\hieum\Documents\GitHub\NaiveBayes\NaiveBayes\obj\Debug\NaiveBayes.csproj.GenerateResource.cache
+C:\Users\hieum\Documents\GitHub\NaiveBayes\NaiveBayes\obj\Debug\NaiveBayes.csproj.CoreCompileInputs.cache
+C:\Users\hieum\Documents\GitHub\NaiveBayes\NaiveBayes\obj\Debug\NaiveBayes.exe
+C:\Users\hieum\Documents\GitHub\NaiveBayes\NaiveBayes\obj\Debug\NaiveBayes.pdb
